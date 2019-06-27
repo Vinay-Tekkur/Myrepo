@@ -1,0 +1,7 @@
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\bin\Debug\MyCar.exe.config
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\bin\Debug\MyCar.exe
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\bin\Debug\MyCar.pdb
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\obj\Debug\MyCar.csprojAssemblyReference.cache
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\obj\Debug\MyCar.csproj.CoreCompileInputs.cache
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\obj\Debug\MyCar.exe
+C:\Users\vinaygt\Desktop\Practice\MyCar\MyCar\obj\Debug\MyCar.pdb
